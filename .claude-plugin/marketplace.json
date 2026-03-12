@@ -1,0 +1,25 @@
+{
+  "name": "drunknsorry",
+  "owner": {
+    "name": "drunknsorry",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "wwsas",
+      "source": {
+        "source": "github",
+        "repo": "drunknsorry/SAS"
+      },
+      "description": "Autonomous engineering council — design, build, ship, and self-improve.",
+      "version": "1.8.0",
+      "category": "productivity",
+      "tags": [
+        "autonomous",
+        "council",
+        "pipeline",
+        "agents"
+      ]
+    }
+  ]
+}

@@ -17,5 +17,5 @@ Plugin marketplace for Claude Code plugins by drunknsorry.
 ### Install a plugin
 
 ```
-/plugin install wwsas@drunknsorry-claude-market
+/plugin install wwsas@drunknsorry
 ```
